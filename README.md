@@ -15,9 +15,9 @@ The code in this repository performs 2 tasks from our paper (doi: https://doi.or
 	This step uses a bagged SVM classifier to predict fold class from secondary structure.
 	
 	Dependencies:
-	 - DSSP (https://swift.cmbi.umcn.nl/gv/dssp/)
-	 - BioPython (https://biopython.org/)
-	 - scikit-learn (https://scikit-learn.org)
+	 - DSSP ([https://swift.cmbi.umcn.nl/gv/dssp/](https://swift.cmbi.umcn.nl/gv/dssp/))
+	 - BioPython ([https://biopython.org/](https://biopython.org/))
+	 - scikit-learn ([https://scikit-learn.org](https://scikit-learn.org))
 	 
 	Usage:
 	```
