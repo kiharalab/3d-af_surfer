@@ -1,3 +1,0 @@
-Query	Target	Dis-similarity Probability
-1nnu	1nnu	0.0
-1nnu	1FGN	0.149
