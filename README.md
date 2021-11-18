@@ -2,6 +2,12 @@ The code in this repository performs 2 tasks from our paper (doi: https://doi.or
 
 # TASK 1: Given two PDB files, predict the structural dis-similarity probability.
 This step generates the (dis)-similarity probability for the structure.
+
+Dependencies:
+ - PyTorch ([https://pytorch.org](https://pytorch.org))
+ - EDTSurf ([https://zhanggroup.org/EDTSurf/](https://zhanggroup.org/EDTSurf/)) [download and place in the ./bin/ directory]
+ - BioPython ([https://biopython.org/](https://biopython.org/))
+
 Usage : run_methods.sh pdb1 pdb2
 Example:
 ```
