@@ -1,4 +1,4 @@
-The code in this repository performs 2 tasks from our paper (doi: https://doi.org/10.1101/2021.10.21.465371)
+The code in this repository performs 2 tasks from our 3D-AF-Surfer paper (doi: https://doi.org/10.1101/2021.10.21.465371). The protein structure search website for the paper can be found at [https://kiharalab.org/3d-surfer/submitalphafold.php](https://kiharalab.org/3d-surfer/submitalphafold.php)
 
 # TASK 1: Given two PDB files, predict the structural dis-similarity probability.
 This step generates the (dis)-similarity probability for the structure.
